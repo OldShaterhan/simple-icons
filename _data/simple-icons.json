@@ -486,6 +486,11 @@
             "source": "https://commons.wikimedia.org/wiki/File:AppleTV.svg"
         },
         {
+            "title": "AppSignal",
+            "hex": "21375A",
+            "source": "https://appsignal.com/"
+        },
+        {
             "title": "AppVeyor",
             "hex": "00B3E0",
             "source": "https://commons.wikimedia.org/wiki/File:Appveyor_logo.svg"
@@ -544,6 +549,11 @@
             "title": "ASKfm",
             "hex": "DB3552",
             "source": "https://ask.fm/"
+        },
+        {
+            "title": "ASUS",
+            "hex": "000000",
+            "source": "https://www.asus.com/"
         },
         {
             "title": "AT&T",
@@ -726,6 +736,11 @@
             "source": "https://commons.wikimedia.org/wiki/File:Beijing_Subway_logo.svg"
         },
         {
+            "title": "Bentley",
+            "hex": "333333",
+            "source": "https://en.wikipedia.org/wiki/File:Bentley_logo.svg"
+        },
+        {
             "title": "Big Cartel",
             "hex": "222222",
             "source": "https://www.bigcartel.com"
@@ -859,6 +874,11 @@
             "title": "Broadcom",
             "hex": "CC092F",
             "source": "https://en.wikipedia.org/wiki/Broadcom_Inc"
+        },
+        {
+            "title": "BT",
+            "hex": "6400AA",
+            "source": "https://www.bt.com/"
         },
         {
             "title": "Buddy",
@@ -1001,6 +1021,11 @@
             "source": "https://commons.wikimedia.org/wiki/File:Chase_logo_2007.svg"
         },
         {
+            "title": "Checkmarx",
+            "hex": "54B848",
+            "source": "https://www.checkmarx.com/resources/datasheets/"
+        },
+        {
             "title": "Chef",
             "hex": "F09820",
             "source": "https://www.chef.io/"
@@ -1119,6 +1144,11 @@
             "title": "CocoaPods",
             "hex": "EE3322",
             "source": "https://github.com/CocoaPods/shared_resources"
+        },
+        {
+            "title": "Coda",
+            "hex": "F46A54",
+            "source": "https://coda.io/"
         },
         {
             "title": "Codacy",
@@ -2101,6 +2131,11 @@
             "source": "https://ghost.org/design"
         },
         {
+            "title": "Ghostery",
+            "hex": "00BAF2",
+            "source": "https://www.ghostery.com/"
+        },
+        {
             "title": "GIMP",
             "hex": "5C5543",
             "source": "https://www.gimp.org/about/linking.html#wilber-the-gimp-mascot"
@@ -2204,6 +2239,11 @@
             "title": "Godot Engine",
             "hex": "478CBF",
             "source": "https://godotengine.org/themes/godotengine/assets/download/godot_logo.svg"
+        },
+        {
+            "title": "GoFundMe",
+            "hex": "00B964",
+            "source": "https://www.gofundme.com/"
         },
         {
             "title": "GOG.com",
@@ -2439,6 +2479,11 @@
             "title": "Grunt",
             "hex": "FBA919",
             "source": "https://github.com/gruntjs/gruntjs.com/tree/master/src/media"
+        },
+        {
+            "title": "Guangzhou Metro",
+            "hex": "C51935",
+            "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Metro_logo.svg"
         },
         {
             "title": "Gulp",
@@ -3001,6 +3046,11 @@
             "source": "https://www.foundry.com/products/katana"
         },
         {
+            "title": "KDE",
+            "hex": "1D99F3",
+            "source": "https://kde.org/stuff/clipart.php"
+        },
+        {
             "title": "KeePassXC",
             "hex": "6CAC4D",
             "source": "https://github.com/keepassxreboot/keepassxc/"
@@ -3526,6 +3576,11 @@
             "source": "http://logo.meteorapp.com/"
         },
         {
+            "title": "Métro de Paris",
+            "hex": "003E95",
+            "source": "https://www.ratp.fr/"
+        },
+        {
             "title": "micro:bit",
             "hex": "00ED00",
             "source": "https://microbit.org/"
@@ -3676,6 +3731,11 @@
             "source": "https://www.mojang.com/"
         },
         {
+            "title": "Moleculer",
+            "hex": "3CAFCE",
+            "source": "https://moleculer.services/"
+        },
+        {
             "title": "Monero",
             "hex": "FF6600",
             "source": "https://getmonero.org"
@@ -3711,6 +3771,11 @@
             "source": "https://www.moo.com/uk/about/press.html"
         },
         {
+            "title": "Moscow Metro",
+            "hex": "D9232E",
+            "source": "https://mosmetro.ru/"
+        },
+        {
             "title": "Mozilla",
             "hex": "000000",
             "source": "https://mozilla.ninja/our-logo"
@@ -3729,6 +3794,11 @@
             "title": "MTA",
             "hex": "0039A6",
             "source": "https://mta.info/"
+        },
+        {
+            "title": "MTR",
+            "hex": "AC2E45",
+            "source": "https://commons.wikimedia.org/wiki/File:MTR_(logo_with_text).svg"
         },
         {
             "title": "MuseScore",
@@ -4226,6 +4296,11 @@
             "source": "https://www.pivotaltracker.com/branding-guidelines"
         },
         {
+            "title": "Piwigo",
+            "hex": "FF7700",
+            "source": "https://github.com/Piwigo/piwigodotorg/blob/6edb840c16257314caec770a9a51f67ef81836e4/images/piwigo.org.svg"
+        },
+        {
             "title": "Pixabay",
             "hex": "2EC66D",
             "source": "https://pixabay.com/service/about/"
@@ -4681,6 +4756,16 @@
             "source": "https://c5.rgstatic.net/m/428059296771819/images/favicon/favicon.svg"
         },
         {
+            "title": "RetroArch",
+            "hex": "000000",
+            "source": "https://github.com/libretro/RetroArch/blob/b01aabf7d1f025999ad0f7812e6e6816d011e631/media/retroarch.svg"
+        },
+        {
+            "title": "RetroPie",
+            "hex": "CC0000",
+            "source": "https://github.com/RetroPie/RetroPie-Docs/blob/c4e882bd2c9d740c591ff346e07a4a4cb536ca93/images/logo.svg"
+        },
+        {
             "title": "ReverbNation",
             "hex": "E43526",
             "source": "https://www.reverbnation.com"
@@ -4899,6 +4984,11 @@
             "title": "Serverless",
             "hex": "FD5750",
             "source": "https://serverless.com/"
+        },
+        {
+            "title": "Shanghai Metro",
+            "hex": "EC1C24",
+            "source": "https://en.wikipedia.org/wiki/File:Shanghai_Metro_Full_Logo.svg"
         },
         {
             "title": "Shazam",
@@ -5799,6 +5889,11 @@
             "title": "UpLabs",
             "hex": "3930D8",
             "source": "https://www.uplabs.com/"
+        },
+        {
+            "title": "Uploaded",
+            "hex": "0E70CB",
+            "source": "https://www.uploaded.net"
         },
         {
             "title": "Upwork",
